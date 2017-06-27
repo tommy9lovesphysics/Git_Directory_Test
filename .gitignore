@@ -2,3 +2,4 @@
 results/*.dat
 !results/a.dat
 log_0?
+!log_01
