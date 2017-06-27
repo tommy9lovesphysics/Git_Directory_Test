@@ -1,3 +1,4 @@
 *.dat
 results/*.dat
 !results/a.dat
+log_0?
